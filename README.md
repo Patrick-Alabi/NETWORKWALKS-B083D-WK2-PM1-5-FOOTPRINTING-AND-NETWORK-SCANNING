@@ -221,6 +221,7 @@ Repository structure:
 ``` text
 .
 ├── README.md
+├── W2-PM-Permission-Letter.pdf
 ├── W2-PM1-5-FINAL-Report.docx
 └── zenmap-topology.pdf
 ```
