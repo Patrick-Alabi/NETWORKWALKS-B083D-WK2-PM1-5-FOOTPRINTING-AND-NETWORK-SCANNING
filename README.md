@@ -216,7 +216,7 @@ unexpected systems.
 The final project report contains screenshots and evidence from the
 practical exercises.
 
-Suggested repository structure:
+Repository structure:
 
 ``` text
 .
@@ -225,7 +225,7 @@ Suggested repository structure:
 └── zenmap-topology.pdf
 ```
 
-Screenshots can be organized by project and numbered according to the
+Screenshots are structured according to the
 relevant task.
 
 ------------------------------------------------------------------------
